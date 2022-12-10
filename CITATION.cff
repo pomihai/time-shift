@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Pomeran"
+  given-names: "Mihai"
+  orcid: "https://orcid.org/0000-0001-9960-950X"
+title: "time shift"
+version: 0.0.1
+doi: 10.5281/zenodo.7422637
+date-released: 2022-12-10
+url: "https://github.com/pomihai/time-shift"
